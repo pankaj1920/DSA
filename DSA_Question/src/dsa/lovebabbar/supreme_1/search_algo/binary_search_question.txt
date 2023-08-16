@@ -1,3 +1,18 @@
+Love Babar
+    1- first occurene
+    2 - last occurene
+    3 - total occurene
+    4 - find one missig element = number is between  1 to n find one missing number
+    5 - peak element in mountain array leetcode = {2,5,7,13,11,9,3}
+    6 - find pviot using binary search {3 , 4 , 5 , 6 , 7 , 8, 1 ,2 }
+    7 - search in rotated sorted array  before {0,1,2,3,4,5,6} => rotate => {6 1 2 3 4 5} => rotate => {5 6 1 2 3 4} => final rotate {4  5  6  7 1 2 3 }
+        search in final rotate any number in final rotated array
+    8- square root using binary search
+    9- search in nearly sorted array in log time
+    10- division of 2 number using binary search
+    11- find odd occuring element using binary search
+
+
 Easy:
 
 	1- Find the index of a given element in a sorted array.
