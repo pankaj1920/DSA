@@ -1,3 +1,4 @@
+
 Love Babar
     1- first occurene
     2 - last occurene
@@ -43,6 +44,7 @@ Medium:
 	8- Search for a target range in a sorted array.
 	9- Find the smallest element greater than a given target in a sorted array.
 	10- Find the smallest element larger than a given target in a rotated sorted array.
+
 
 Hard:
 
