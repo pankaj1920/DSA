@@ -3,6 +3,7 @@ package dsa.lovebabbar.supreme_1.search_algo;
 public class FindOneMissingElement {
     public static void main(String[] args) {
         int arr [] = {1,2,3,4,5,6,7,9};
+
         int ans = findMissingElement(arr);
         System.out.println("Missiong number is "+ans);
     }

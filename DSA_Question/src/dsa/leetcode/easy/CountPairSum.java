@@ -1,4 +1,4 @@
 package dsa.leetcode.easy;
 
-public class Easy {
+public class CountPairSum {
 }
