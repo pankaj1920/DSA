@@ -1,0 +1,55 @@
+
+Love Babar
+    1- first occurene
+    2 - last occurene
+    3 - total occurene
+    4 - find one missig element = number is between  1 to n find one missing number
+    5 - peak element in mountain array leetcode = {2,5,7,13,11,9,3}
+    6 - find pviot using binary search {3 , 4 , 5 , 6 , 7 , 8, 1 ,2 }
+    7 - search in rotated sorted array  before {0,1,2,3,4,5,6} => rotate => {6 1 2 3 4 5} => rotate => {5 6 1 2 3 4} => final rotate {4  5  6  7 1 2 3 }
+        search in final rotate any number in final rotated array
+    8- square root using binary search
+    9- search in nearly sorted array in log time
+    10- division of 2 number using binary search
+    11- find odd occuring element using binary search
+
+
+Easy:
+
+	1- Find the index of a given element in a sorted array.
+	2- Determine if a given number is present in a sorted array.
+	3- Calculate the square root of a non-negative integer using binary search.
+	4- Find the peak element in an array (an element greater than its neighbors).
+	5- Search in a rotated sorted array to find a target element.
+	6- Find the first occurrence of a target element in a sorted array.
+	7- Find the last occurrence of a target element in a sorted array.
+	8- Search for an element in a nearly sorted array.
+	9- Count occurrences of a target element in a sorted array.
+	10- Search a 2D matrix (sorted row-wise and column-wise) for a target element.
+	11- Find the maximum element in a bitonic array.
+	12- Search for a target element in a mountain array.
+	13- Search for an element in an infinite sorted array.
+	14- Search for a target element in a circularly sorted array.
+	15- Find the element just smaller than the target in a sorted array.
+
+Medium:
+
+	1- Find the minimum element in a rotated sorted array.
+	2- Search for the "kth" smallest element in a sorted matrix.
+	3- Find the median of two sorted arrays.
+	4- Find the smallest missing positive integer in an array.
+	5- Find the element that appears only once in a sorted array (others appear twice).
+	6- Find the index of the peak element in an array.
+	7- Search for a target element in a sorted array with unknown size.
+	8- Search for a target range in a sorted array.
+	9- Find the smallest element greater than a given target in a sorted array.
+	10- Find the smallest element larger than a given target in a rotated sorted array.
+
+
+Hard:
+
+	1- Find the "kth" element in two sorted arrays.
+	2- Search in a rotated sorted array with duplicates.
+	3- Search in a sorted, but rotated, array containing duplicates.
+	4- Allocate minimum number of pages for books to be read by students.
+	5- Search in a sorted array of strings which is interspersed with empty strings.
