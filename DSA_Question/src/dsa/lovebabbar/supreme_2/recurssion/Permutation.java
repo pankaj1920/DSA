@@ -17,16 +17,18 @@ public class Permutation {
 
         for (int j = index; j < str.length; j++) {
 
-                char temp = str[index];
-                str[index] = str[j];
-                str[j]= temp;
+            swap(str, index, j);
             findAllPermutation(str,index+1);
+            swap(str, index, j);
 
         }
     }
 
-
-
+    private static void swap(char[] str, int index, int j) {
+        char temp = str[index];
+        str[index] = str[j];
+        str[j]= temp;
+    }
 
 
 }
