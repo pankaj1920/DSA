@@ -4,7 +4,7 @@ public class SubArraySum {
     public static void main(String[] args) {
         int arr[] = {2,8,-1,4};
 
-        findAllSubArrSumPri(arr)
+        findAllSubArrSumPri(arr);
     }
 
     private static void findAllSubArrSumPri(int[] arr) {

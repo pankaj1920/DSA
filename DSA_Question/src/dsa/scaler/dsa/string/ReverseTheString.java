@@ -11,10 +11,18 @@ public class ReverseTheString {
     }
 
     private static String rev(String a) {
-        char[] ch = a.trim().toCharArray();
 
-        System.out.println(Arrays.toString(ch));
+        String[] abc = a.split(" ");
+//        System.out.println(Arrays.toString(abc));
 
-        return "";
+        StringBuilder sb = new StringBuilder();
+
+        for (int i = abc.length - 1; i >= 0; i--) {
+            if (!abc[i].equals("")) {
+                sb.append(abc[i]).append(" ");
+            }
+        }
+
+        return sb.toString().trim();
     }
 }
